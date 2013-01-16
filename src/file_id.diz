@@ -1,0 +1,97 @@
+::::::::::::::::::::::::::::::::::::::::
+   .            ___/\____
+  / \/\     __  \   __  /___
+  \ /  \   /\_\  \  \/___  /evolutioners
+   <    \  \/_/   \  \  /  \
+    \    \         \  \ \   \/\
+     )    \__       \  \ \  __/
+    /_______/ndustrial_/  \/
+
+::::::::::::::::::::::::::::::::::::::::
+           Proudly presents:   
+
+              ....:::....
+
+          The cube rollin game
+            that has no name
+        
+                  in
+                 2013
+
+::::::::::::::::::::::::::::::::::::::::
+
+Credits:
+----------------------------------------
+Code:                 Caiwan 
+
+Sound:                Gabriel
+
+Graphics and Design:  Slapec
+                      Caiwan
+
+ASCII:                Mr.EEH/Nerve
+                      (thanks again :) )
+
+----------------------------------------
+
+This is the FUCKING thing that I made
+for my FUCKING Java exam in my collage.
+
+I made it in 2 FUCKING weeks from 
+scratch, and I am very FUCKING proud 
+of it, because it was written in FUCKING 
+java, and FUCKING java is FUCKING SUCKS.
+
+This stuff uses the wonderful LWJGL 
+OpenGL wrapper library (because this 
+was the less FUCKING SUCKS from all of 
+the solutions I have found)
+>>> http://www.lwjgl.org/
+
+Both MacOS and Linux libs are not
+included in the package, but it should
+work after you put them in the natives/
+folder. Or not. Because Java FUCKING 
+SUCKS.
+
+- Caiwan/IR
+
+P.S.: This FUCKING Java made me FUCKING
+pissed off at every FUCKING odd line.
+Java FUCKING is SUCKS.
+
+::::::::::::::::::::::::::::::::::::::::
+
+public static final String 
+    greetings[] = {
+	"Ágnes Achs",
+        "Astroidea",
+	"Bad Sectors",
+	"Bluebox Cinematique GMBH", 
+	"Brainstorm2,
+	"CaPaNÑa",
+        "Crowngear",
+	"Conspiracy",
+	"Digiatal Dynamite",
+	"Exceed",
+	"Fresh!Mindworkz",
+	"United Force",
+	"Ümlaüt Design",
+	"Lungcancer Entertaiment",
+	"A Moiré Misszió Bemutatja",
+	"MU6K",
+        "Nerve",
+	"Rebels",
+	"Resource",
+	"Singular Crew",
+	"Suprise!Productions",
+    };
+
+::::::::::::::::::::::::::::::::::::::::
+
+(c) Industrial Revolutoners 2009-2013
+
+WEB: 
+    http://ir.untergrund.net/
+
+::::::::::::::::::::::::::::::::::::::::

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: enginetest.Main
+Class-Path: lib/lwjgl.jar lib/lwjgl_util.jar lib/slick.jar lib/slick-util.jar lib/jogg-0.0.7.jar lib/jorbis-0.0.15.jar
